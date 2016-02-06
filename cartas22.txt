@@ -1,0 +1,4 @@
+mazoDeCartas = new ArrayList<>(Arrays.asList(new Carta(1,"pikas"),new Carta(2,"pikas"),new Carta(3,"pikas"),new Carta(4,"pikas"),new Carta(5,"pikas"),
+        new Carta(6,"pikas"),new Carta(7,"pikas"),new Carta(8,"pikas"),new Carta(9,"pikas"),new Carta(10,"pikas"),new Carta(11,"pikas"),new Carta(12,"pikas"),
+        new Carta(13,"pikas")
+            ));
