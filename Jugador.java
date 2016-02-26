@@ -1,10 +1,6 @@
 import java.util.ArrayList;
 /**
  * Clase Jugador para nuestra partida de cartas
- *
- * @author (your name) 
- * @version (a version number or a date)
- * Clase Jugador
  */
 public class Jugador
 {
